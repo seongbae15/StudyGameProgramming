@@ -13,6 +13,3 @@ Study Project List
 - Venice Game
   - C++
   - Window Console
-- Zombie Shooter
-  - C#
-  - Unity3D
