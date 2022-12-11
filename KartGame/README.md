@@ -4,8 +4,4 @@ Kart Game using Unity.
 
 - Record best lap time.
 
-## You Can Play More Updated Game at below link</a>
-
-- Link : "https://play.unity.com/mg/other/webgl-builds-158449"
-
 <img src="./figures/kartCapture.jpg">
